@@ -1,4 +1,4 @@
-# REST (nodejs express mongo)
+# REST (nodejs express mongodb)
 
 ## Quick Start
 
@@ -6,10 +6,10 @@
 # Install dependencies
 npm install
 
-# Serve on localhost:3000
+# Server on localhost:3000
 npm start
 
-# Serve (nodemon) on localhost:3000
+# Server (nodemon) on localhost:3000
 npm run dev
 ```
 
